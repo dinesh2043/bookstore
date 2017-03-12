@@ -32,7 +32,7 @@ Select Import from Self-Contained File and enter the location in the File Path t
 
 Click Start Import and enter the database password if prompted. This process may take several minutes depending on the size of your database backup.
 
-	When all of these things are done import the project in netbeans and right-click the TheBookStore project node and choose Deploy. The GlassFish server reads configuration data from the sun-resources.xml file and creates the AffableBeanPool connection pool, and jdbc/affablebean data source.
+When all of these things are done import the project in netbeans and right-click the TheBookStore project node and choose Deploy. The GlassFish server reads configuration data from the sun-resources.xml file and creates the AffableBeanPool connection pool, and jdbc/affablebean data source.
   
 #### Create Users and/or Groups on the Server
 
