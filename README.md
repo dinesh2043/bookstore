@@ -14,6 +14,7 @@ To use the database in this application you should import the database folder to
   
 #### Step 1
 Click Manage Import / Export under Server Administration on the right of the Workbench window. If you cannot see this option, make sure the Home tab is selected.
+![](https://github.com/dinesh2043/bookstore/blob/master/img1.jpg)
 
 #### Step 2
 Select your database and click OK.
