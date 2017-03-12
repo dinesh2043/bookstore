@@ -99,5 +99,5 @@ Click OK. The new admin user is now listed under File Users in the GlassFish Adm
  
 ![img](https://github.com/dinesh2043/bookstore/blob/master/img12.jpg) 
 
-![img](https://github.com/dinesh2043/bookstore/blob/master/img1.jpg)
+![img](https://github.com/dinesh2043/bookstore/blob/master/img13.jpg)
 
