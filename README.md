@@ -14,20 +14,26 @@ To use the database in this application you should import the database folder to
   
 #### Step 1
 Click Manage Import / Export under Server Administration on the right of the Workbench window. If you cannot see this option, make sure the Home tab is selected.
-![](https://github.com/dinesh2043/bookstore/blob/master/img1.jpg)
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img1.jpg)
 
 #### Step 2
 Select your database and click OK.
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img2.jpg)
 
 #### Step 3
 Enter your database password if prompted.
 
 #### Step 4
 Select the Import from Disk tab.
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img3.jpg)
  
 #### Import from Self-Contained File
 Select Import from Self-Contained File and enter the location in the File Path text field.
 
+![img](https://github.com/dinesh2043/bookstore/blob/master/img4.jpg)
 
 #### Step 6
 
@@ -58,23 +64,40 @@ New Password: admin
 Confirm New Password: admin
  
 Here, we are creating a user for the file security realm, which we've randomly named admin. We have also assigned the new user to a randomly named bookStoreAdmin group. Remember the admin password you set, as you will require it to later log into the BookStore administration console.
+
 Click OK. The new admin user is now listed under File Users in the GlassFish Administration Console. 
+
 #### After all this if you run the application on firefox browser you should see something like this:
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img5.jpg) 
  
 #### After if you select one of the categories photos you will see product list of that category and you can add the items in your shopping cart. 
 
+![img](https://github.com/dinesh2043/bookstore/blob/master/img6.jpg)
 
 #### When you press view cart in the after adding desired items you can see the cart full of items you selected. You will see something like this,
- 
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img7.jpg)
+
 #### You can update the numbers of items you want to buy by putting the number of quantity of items in the text box. Then if you press the proceed to checkout button you will see different page like this,
- 
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img8.jpg)
+
 #### In this page you can see the total amount of shopping you have done with the service charge and to complete the shopping you should fill the form for the customers details. You are supposed to fill all the fields in the form otherwise you will get error message. After you press the submit button you will see the conformation page with the detailed information of your shopping.
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img9.jpg)
  
 #### Now also see the admin part of the application so we can open admin part by typing this address in the browser https://localhost:8181/web/admin/ you will see the login page for admin.
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img10.jpg)
  
 #### User name and password to login are admin and admin. If you login you will see
 
+![img](https://github.com/dinesh2043/bookstore/blob/master/img11.jpg)
+
 #### Now you can view all customers list and order list by clicking view all customers and view all orders.
  
- 
+![img](https://github.com/dinesh2043/bookstore/blob/master/img12.jpg) 
+
+![img](https://github.com/dinesh2043/bookstore/blob/master/img1.jpg)
 
