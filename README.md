@@ -1,14 +1,16 @@
 ## The Book Store e-commerce Application (J2EE)
-	This is an e-commerce application with the functionality of users being able to select the items available for sale. Customers can choose the items which are automatically added in the cart and they can check out by providing the personal details in the form which appears after pressing proceed to checkout button. When submit button is pressed the customers is added to the database with the product information all the information is transmitted to the server using Transport Layer Security (TLS) or Secure Sockets Layer (SSL) protocol. I have used MySql Workbench as database server. In this application I have used jsp for views and servlet for application main logic. I have used entity class from database and session class also from database with EJB and JPA Technology. I have used HttpSession to deal with the shopping cart in this application. I have Integrated Transactional Business Logic for recording customer, CustomerOrder and OrderdProduct information in the database. To do that I have created OrderManager EJB class in my project. To authenticate user I have used form based authentication for the application with users, group and roles defined in glassfish server manage users. This is the simple explanation of my application.
+
+This is an e-commerce application with the functionality of users being able to select the items available for sale. Customers can choose the items which are automatically added in the cart and they can check out by providing the personal details in the form which appears after pressing proceed to checkout button. When submit button is pressed the customers is added to the database with the product information all the information is transmitted to the server using Transport Layer Security (TLS) or Secure Sockets Layer (SSL) protocol. I have used MySql Workbench as database server. In this application I have used jsp for views and servlet for application main logic. I have used entity class from database and session class also from database with EJB and JPA Technology. I have used HttpSession to deal with the shopping cart in this application. I have Integrated Transactional Business Logic for recording customer, CustomerOrder and OrderdProduct information in the database. To do that I have created OrderManager EJB class in my project. To authenticate user I have used form based authentication for the application with users, group and roles defined in glassfish server manage users. This is the simple explanation of my application.
 ### Software needed for this application is as follows;
 
 Software or Resource |	Version Required
+-------------------- | ---------------------
 NetBeans IDE | Java bundle, 6.8 or 6.9
 Java Development Kit (JDK) | version 6
 GlassFish server | v3 or Open Source Edition 3.0.1
 MySQL database server | version 5.1
 
-	To use the database in this application you should import the database folder to MySql Workbench and mysql database should have username root and password root and database with name bookstore to work for this application.
+To use the database in this application you should import the database folder to MySql Workbench and mysql database should have username root and password root and database with name bookstore to work for this application.
   
 #### Step 1
 Click Manage Import / Export under Server Administration on the right of the Workbench window. If you cannot see this option, make sure the Home tab is selected.
